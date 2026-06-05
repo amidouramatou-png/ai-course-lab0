@@ -9,3 +9,5 @@
 - `environment_verification.txt` - Output of verification
 - `.gitignore` - Python gitignore rules
 - `notebooks/` - Jupyter notebooks for exercises
+- `colab_practice.ipynb`for Exo 3
+- `lab0_exercises.ipynb` for EXo 4,5,6,7
